@@ -1,0 +1,13 @@
+5
+0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  1.9890e+30  sun.gif 
+5.7900e+10  0.0000e+00  0.0000e+00  4.7900e+04  3.3020e+23  mercury.gif 
+1.0820e+11  0.0000e+00  0.0000e+00  3.5000e+04  4.8690e+24  venus.gif
+1.4960e+11  0.0000e+00  0.0000e+00  2.9800e+04  5.9740e+24  earth.gif  
+2.2790e+11  0.0000e+00  0.0000e+00  2.4100e+04  6.4190e+23  mars.gif 
+
+[!] Your program should not read this line, as all 3 planets were already listed
+and there is no further information to be specified. So you can put comments here.
+This file contains an interesting 3-body system.
+
+3
+1.25e11
